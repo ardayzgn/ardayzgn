@@ -11,4 +11,5 @@
 
   **EN:** Hello friend, welcome. Let me introduce myself briefly to you. My name is Arda, I am 15 years old. I was born in Manisa, Turkey. I love the software. I have been dealing with software for about 1.5 years. I like doing Javascript projects more. I have one YouTube channel, but I post a video once a month. I usually share my projects. Don't forget to star my projects. ^^
 
+ ![naber](https://cdn.discordapp.com/attachments/852245827833561170/857233242008191016/4k-duvar-kagitlari-bulabileceginiz-internet-siteleri-1603305452.png)
 
