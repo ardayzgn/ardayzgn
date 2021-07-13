@@ -15,5 +15,5 @@
 **My Projects / Projerlerim**
 > **Jarvis BOT:** Jarvis bot Discord adlı platform için hazırlamış olduğum bir bot projesidir. Bot 7 / 24 aktiftir. Çoğu hizmeti diğer botların aksine ücretsizdir. Sizde Jarvis'i sunucuza ekleyip farkınızı ortaya koyabilirsiniz. :^) ( [Davet etmek için tıkla!](https://discord.com/oauth2/authorize?client_id=849217554311806997&scope=bot&permissions=805707902) ) => Bot Kapandı :/
 
- ![naber](https://cdn.discordapp.com/attachments/852245827833561170/857235448555241472/1500x500.png)
+ ![naber](https://cdn.discordapp.com/attachments/858319373206028288/864482344822767636/8bef94249eeed8fd417cdfe517a69337.jpg)
 
