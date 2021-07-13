@@ -1,5 +1,4 @@
 <h1 align="center">𝐀𝐫𝐝𝐚 𝐘𝐀𝐙𝐆𝐀𝐍</h1>
-
 <p align="center">
  <a href="https://discord.com/users/694145077693382656" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
  <a href="https://discord.gg/N4Ze76Ukrk" target"blank_"><img src="https://img.shields.io/badge/Discord Server%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -12,8 +11,10 @@
 
   **EN:** Hello friend, welcome. Let me introduce myself briefly to you. My name is Arda, I am 15 years old. I was born in Manisa, Turkey. I love the software. I have been dealing with software for about 1.5 years. I like doing JavaScript projects more. I have one YouTube channel, but I post a video once a month. I usually share my projects. Don't forget to star my projects. ^^
 
+<h2 align="center">𝐏𝐫𝐨𝐣𝐞𝐜𝐭 / 𝐏𝐫𝐨𝐣𝐞𝐥𝐞𝐫𝐢𝐦</h2>
 **My Projects / Projerlerim**
-> **Jarvis BOT:** Jarvis bot Discord adlı platform için hazırlamış olduğum bir bot projesidir. Bot 7 / 24 aktiftir. Çoğu hizmeti diğer botların aksine ücretsizdir. Sizde Jarvis'i sunucuza ekleyip farkınızı ortaya koyabilirsiniz. :^) ( [Davet etmek için tıkla!](https://discord.com/oauth2/authorize?client_id=849217554311806997&scope=bot&permissions=805707902) ) => Bot Kapandı :/
+Coming Soon / Yakında
+
 
  ![naber](https://cdn.discordapp.com/attachments/858319373206028288/864482344822767636/8bef94249eeed8fd417cdfe517a69337.jpg)
 
