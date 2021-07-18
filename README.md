@@ -13,7 +13,7 @@
 
 <h2 align="center">𝐏𝐫𝐨𝐣𝐞𝐜𝐭 / 𝐏𝐫𝐨𝐣𝐞𝐥𝐞𝐫𝐢𝐦</h2>
 
-Coming Soon / Yakında
+**Coming Soon / Yakında**
 
 
  ![naber](https://cdn.discordapp.com/attachments/858319373206028288/864482344822767636/8bef94249eeed8fd417cdfe517a69337.jpg)
