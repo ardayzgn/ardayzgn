@@ -15,6 +15,3 @@
 
 **Coming Soon / Yakında**
 
-
- ![naber](https://cdn.discordapp.com/attachments/858319373206028288/864482344822767636/8bef94249eeed8fd417cdfe517a69337.jpg)
-
