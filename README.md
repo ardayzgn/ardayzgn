@@ -14,4 +14,4 @@
 
 ## [ GitHub Stats ]
 
-  ![](https://komarev.com/ghpvc/?username=HourgonJS&color=grey)
+  ![](https://komarev.com/ghpvc/?username=HourgonJS&color=grey)![](https://komarev.com/ghpvc/?username=berkegokce&label=Ziyaretçi%20Sayısı&color=grey)
