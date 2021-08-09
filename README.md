@@ -1,4 +1,6 @@
   <h1 align="center">[ Hourgon The Unbeaten ]</h1>
+  ![](https://komarev.com/ghpvc/?username=HourgonJS&color=grey)
+
 <div align="center">
 <a href="https://discord.com/users/694145077693382656" target"blank_"><img src="https://img.shields.io/badge/Hourgon%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://discord.gg/N4Ze76Ukrk" target"blank_"><img src="https://img.shields.io/badge/Plotus%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -7,7 +9,6 @@
 </div>
 
 ## [ About Me ]
-![](https://komarev.com/ghpvc/?username=HourgonJS&color=grey)
 
 **TR:** Merhaba dostum, hoşgeldin. Sana kendimi kısaca tanıtayım. Adım Arda, 15 yaşındayım. Türkiye'de Manisa'da doğdum. Yazılımı seviyorum. Yaklaşık 1,5 yıldır yazılımla uğraşıyorum. JavaScript projeleri yapmayı daha çok seviyorum. Bir tane YouTube kanalım var ama ayda yılda bir kere video atıyorum. Genellikle projelerimi paylaşıyorum. Projelerimi starlamayı unutmayın. ^^
 
