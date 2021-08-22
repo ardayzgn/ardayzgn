@@ -14,4 +14,4 @@
 
 ## [ GitHub Stats ] 
 
-  ![](https://komarev.com/ghpvc/?username=FradeDev&color=grey) ![](https://komarev.com/ghpvc/?username=FradeDev&label=Ziyaretçi%20Sayısı&color=grey)
+  ![](https://komarev.com/ghpvc/?username=Frade45&color=grey) ![](https://komarev.com/ghpvc/?username=Frade45&label=Ziyaretçi%20Sayısı&color=grey)
