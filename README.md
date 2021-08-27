@@ -7,7 +7,7 @@
 </div>
 
 <br>
-Merhaba dostum, hoşgeldin. Sana kendimi kısaca tanıtayım. Adım Arda, 15 yaşındayım. Türkiye'de Manisa'da doğdum. Yazılımı seviyorum. Yaklaşık 1,5 yıldır yazılımla uğraşıyorum. JavaScript projeleri yapmayı daha çok seviyorum. Bir tane YouTube kanalım var ama ayda yılda bir kere video atıyorum. Genellikle projelerimi paylaşıyorum. Projelerimi starlamayı unutmayın. ^^
+Merhaba dostum, hoş geldin. Sana kendimi kısaca tanıtayım. Adım Arda, 15 yaşındayım. Türkiye'de Manisa'da doğdum. Yazılımı seviyorum. Yaklaşık 1,5 yıldır yazılımla uğraşıyorum. JavaScript projeleri yapmayı daha çok seviyorum. Bir tane YouTube kanalım var ama ayda yılda bir kere video atıyorum. Genellikle projelerimi paylaşıyorum. Projelerimi starlamayı unutmayın. ^^
 
 
 ## [ GitHub İstatistiklerim ] 
