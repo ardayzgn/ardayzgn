@@ -4,5 +4,3 @@
 <a href="https://github.com/HourgonJS" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://twitter.com/hourgon_" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
-
- ![](https://komarev.com/ghpvc/?username=Frade45&label=Ziyaretçi%20Sayısı&color=grey)
