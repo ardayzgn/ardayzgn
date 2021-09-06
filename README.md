@@ -6,10 +6,9 @@
 </p>   
    
 <div align="center">
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/778143053541277697)](https://discord.com/users/778143053541277697)
 
    <a href="https://discord.com/users/694145077693382656" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/694145077693382656">
+      <img src="https://lanyard-profile-readme.vercel.app/api/694145077693382656?bg=111111">
    </a>
 
 </div>
