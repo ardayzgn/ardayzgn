@@ -5,8 +5,7 @@
 </p>
 
 <div align="center">
-   ![dasa](https://lanyard-profile-readme.vercel.app/api/id694145077693382656)
-   <a href="https://discord.com/users/694145077693382656" target="_blank">
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/id694145077693382656)](https://discord.com/users/id694145077693382656)   <a href="https://discord.com/users/694145077693382656" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/id694145077693382656">
    </a>
 </div>
