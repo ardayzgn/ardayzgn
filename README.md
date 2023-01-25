@@ -1,4 +1,4 @@
- Welcome to My GitHub Profile
+#Welcome to My GitHub Profile
  
  <div align="center">
    <a href="https://discord.com/users/694145077693382656" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>   
